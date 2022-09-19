@@ -5,3 +5,4 @@ let timerId = setTimeout(() => {
 }, 1000);
 
 clearTimeout(timerId); // 清除定时,在执行函数前清楚定时器,函数将不会执行
+
